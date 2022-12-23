@@ -18,7 +18,7 @@
   ],
   "name": "Matteo La Corte Portfolio 2023",
   "short_name": "MLC",
-  "display": "fullscreen",
+  "display": "standalone",
   "start_url": ".",
   "background_color": "#ffffff",
   "theme_color": "#2F2F2F"
