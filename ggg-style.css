@@ -21,8 +21,11 @@
 				max-width: 25rem;
 			}
 
+			h1 {font-size: 2.5rem}
+
 			p {
-				line-height: 1.8;
+				font-size: 1.5rem;
+				line-height: 1.7;
 			}
 
 			button {
@@ -30,7 +33,7 @@
 				background-color: transparent;
 				width: 15rem;
 				height: 3rem;
-				border: 2px solid rgb(255, 183, 218);
+				border: 2px solid rgb(183, 254, 255);
 				outline: none;
 				color: #fff;
 				cursor: pointer;
@@ -39,9 +42,9 @@
 				font-size: 1rem;
 				border-radius: 10px;
 				text-transform: uppercase;
-				letter-spacing: 2px;
-				box-shadow: rgb(255, 63, 156) 0 0 1rem,
-				 inset rgb(255, 63, 156) 0 0  1rem;
+				letter-spacing: 0.2rem;
+				box-shadow: rgb(63, 220, 255) 0 0 1rem,
+				 inset rgb(63, 220, 255) 0 0 1rem;
 				 margin-block: 1rem; 
 			}
 			button:hover {
@@ -52,7 +55,6 @@
 				font-size: 1rem;
 				border-radius: 10px;
 				text-transform: uppercase;
-				letter-spacing: 2px;
 				box-shadow: none;
 				border: 2px solid gray;
 				color: gray
